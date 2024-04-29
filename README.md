@@ -1,2 +1,2 @@
 
-Make sure your using logisim evolved not logiSim!
+Make sure you're using LogiSim Evolved not LogiSim!
